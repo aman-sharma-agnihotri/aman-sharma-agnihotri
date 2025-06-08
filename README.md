@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Aman Sharma 👋
 
-<!--
-**aman-sharma-agnihotri/aman-sharma-agnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Web Developer | IT Grad'26 @ UIET, Panjab University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills & Tech Stack**  
+🌐 HTML, CSS, JavaScript  
+⚛️ React.js, Next.js  
+🛠️ Node.js, Express.js  
+🗄️ MongoDB
+
+---
+
+**About Me**  
+I'm a passionate MERN stack developer currently pursuing my BE (Bachelor of Engineering) IT degree (Class of 2026) at UIET Hoshiarpur, Panjab University, Chandigarh. I love building full-stack web applications and constantly learning new technologies to expand my toolkit.
+
+> **"Hardwork beats talent when talent does not work hard."**
+
+---
+
+**Let's Connect!**  
+📧 Email: [4contact2amansharma@gmail.com](mailto:4contact2amansharma@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/amansharmaagnihotri)
+
+---
+
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-sharma-agnihotri&show_icons=true&theme=dracula)
